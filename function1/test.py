@@ -7,3 +7,5 @@
 # harder faster stronger
 
 # nvidia
+
+# intel
