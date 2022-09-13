@@ -16,7 +16,7 @@ jobs:
       # Example 1
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@28
+        uses: tj-actions/changed-files@v28.0.0
         with:
           since_last_remote_commit: 'true'
 
